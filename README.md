@@ -1,2 +1,4 @@
-# TutorialNotebooks
-Digital Experiments to aid teaching chronobiology and neurobehaviour experiments ONLINE during the pandemic!
+# Digital Rhythms Porject
+Code associated to timestamp extraction from google's myactivity takeout service. HTML version timestamps with timezone attributes.
+
+Do not replicate or use without explicit consent.
